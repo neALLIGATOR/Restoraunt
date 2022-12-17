@@ -1,0 +1,22 @@
+$color-back1: rgb(35,31,26);
+$color-back2: rgb(25,24,20);
+
+$font-info: 15px "Cambria Regular";
+$font-menu: 16px "Source Sans Pro Light";
+
+$width-1-size: 320px;
+$width-2-size: 360px;
+$width-3-size: 768px;
+$width-4-size: 1024px;
+$width-5-size: 1280px;
+$width-6-size: 1440px;
+$width-7-size: 1920px;
+
+@keyframes fade {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
